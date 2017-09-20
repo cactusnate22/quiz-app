@@ -1,0 +1,13 @@
+header {
+	box-sizing: border-box;
+	background-color: #D6EAF8;
+	text-align: center;
+	border: 3px #6E09E3
+	border-radius: 2px;
+}
+
+.button {
+	background-color: #D6EAF8;
+	border-color: #6E09E3
+	text-align: center;
+}
